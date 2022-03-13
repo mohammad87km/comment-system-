@@ -9,7 +9,7 @@ while ($row=mysqli_fetch_array($result)){
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <title>shop</title>
 </head>
 <body>
